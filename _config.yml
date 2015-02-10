@@ -1,0 +1,12 @@
+# Site settings
+title: A Shakespeherian Rag
+email: ahammond@mit.edu
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about whatever piques my (short-lived) interest
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: kanaborama
+github_username:  aaronhammond
+
+# Build settings
+markdown: kramdown
